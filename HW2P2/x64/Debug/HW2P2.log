@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\DELL\Desktop\Study\Year4 Sem1\Micro\HW2\HW2P2\Source.cpp(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\DELL\Desktop\Study\Year4 Sem1\Micro\HW2\HW2P2\Source.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\DELL\Desktop\Study\Year4 Sem1\Micro\HW2\HW2P2\Source.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HW2P2.vcxproj -> C:\Users\DELL\Desktop\Study\Year4 Sem1\Micro\HW2\HW2P2\x64\Debug\HW2P2.exe
